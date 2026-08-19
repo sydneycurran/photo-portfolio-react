@@ -1,0 +1,129 @@
+.one-image-row {
+    display: flex;
+}
+
+.one-image-row img {
+    width: 100%;
+}
+
+.two-image-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.two-image-row img {
+    width: 49.5%;
+}
+
+.three-image-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.three-image-row img {
+    width: 32.67%;
+}
+
+.four-image-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.four-image-row img {
+    width: 24.25%;
+}
+
+.five-image-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-items: center;
+}
+
+.five-image-row img {
+    width: 19.2%;
+}
+
+.three-block {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-items: center;
+}
+
+.three-block-big {
+    width: 66.5%;
+}
+
+.block-two-stack {
+    width: 32.5%;
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.block-two-stack img {
+    width: 100%;
+}
+
+
+.row {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+@media only screen and (max-width: 400px) {
+    .four-image-row img {
+        width: 100%;
+        margin-top: 5px;
+    }
+    .five-image-row img {
+        width: 100%;
+        margin-top: 5px;
+    }
+}
+
+@media only screen and (max-width: 800px) and (min-width: 400px){
+    .four-image-row img {
+        width: 49.5%;
+        margin-top: 5px;
+    }
+
+    .five-image-row img {
+        width: 49.5%;
+        margin-top: 5px;
+    }
+
+}
+
+@media only screen and (max-width: 680px) {
+    .row {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .one-image-row img {
+        margin-top: 5px;
+    }
+    .two-image-row img {
+        width: 100%;
+        margin-top: 5px;
+    }
+    .three-image-row img {
+        width: 100%;
+        margin-top: 5px;
+    }
+    .three-block-big {
+        width: 100%;
+        margin-top: 5px;
+    }
+    .block-two-stack {
+        width: 100%;
+    }
+    .block-two-stack img {
+        margin-top: 5px;
+    }
+}
