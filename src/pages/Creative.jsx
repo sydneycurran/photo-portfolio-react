@@ -3,7 +3,6 @@ import "./page-styles.css";
 import { NavLink } from "../components/Navbar/NavbarElems";
 import GalleryCoverNav from "../components/GalleryCoverNav";
 import { TwoImageRow, ThreeImageBlock, OneImageRow, ThreeImageRow, FourImageRow, FiveImageRow } from "../components/GalleryBlocks";
-import image1 from "../assets/DSC_0294.jpg"
 import splatter from "../assets/splatter2.jpg"
 import wrigley2 from '../portfolio-assets/Wrigley2.jpg'
 import paper1 from '../portfolio-assets/Paper1.jpg'
