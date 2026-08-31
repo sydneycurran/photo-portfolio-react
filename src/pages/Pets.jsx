@@ -26,7 +26,7 @@ import scooby1 from "../portfolio-assets/Scooby1.JPG";
 import scooby2 from "../portfolio-assets/Scooby2.JPG";
 import scooby3 from "../portfolio-assets/Scooby3.JPG";
 import scooby4 from "../portfolio-assets/Scooby4.JPG";
-import scooby5 from "../portfolio-assets/Scooby7.JPG";
+import scooby5 from "../portfolio-assets/Scooby7.jpg";
 import scooby6 from "../portfolio-assets/Scooby6.JPG";
 import shaggy1 from "../portfolio-assets/Shaggy1.JPG";
 import shaggy2 from "../portfolio-assets/Shaggy2.JPG";
