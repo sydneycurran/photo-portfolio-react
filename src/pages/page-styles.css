@@ -244,4 +244,7 @@
     .page-content {
         width: 90%;
     }
+    .page-div {
+        justify-content: center;
+    }
 }
