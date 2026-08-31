@@ -2,12 +2,14 @@
     position: fixed;
     left: 0;
     top: 0;
-    padding: 10px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-top: 10px;
     display: block;
     z-index: 2;
     rotate: 90deg;
     font-size: larger;
-    font-weight: 500;
+    font-weight: 750;
     display:none;
 }
 

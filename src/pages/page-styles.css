@@ -18,6 +18,7 @@
     padding-left: 2.5vw;
     font-size: 3.2em;
     line-height: 1.1;
+    font-family: var(--fun-font), 'Lexend', 'Rubik', Helvetica, sans-serif;
 }
 
 .page-subtitle {
@@ -36,6 +37,13 @@
     padding-left: 2.5vw;
     font-size: 3.2em;
     line-height: 1.1;
+    font-family: var(--fun-font), 'Lexend', 'Rubik', Helvetica, sans-serif;
+}
+
+.subhead {
+    font-size: 2em;
+    line-height: 1.1;
+    font-family: var(--fun-font), 'Lexend', 'Rubik', Helvetica, sans-serif;
 }
 
 #footer-div {
@@ -43,7 +51,6 @@
     background-color: #221f1f;
     justify-items: center;
     position: relative;
-    bottom: 0px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -80,6 +87,7 @@
 .gallery-cover-title {
     font-size: 25px;
     margin-top: -5px;
+    font-family: var(--fun-font), 'Lexend', 'Rubik', Helvetica, sans-serif;
 }
 
 .portfolio-cover-title {
@@ -89,6 +97,8 @@
     top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-family: var(--fun-font), 'Lexend', 'Rubik', Helvetica, sans-serif;
+    text-shadow: .75px .75px 2px rgba(0, 0, 0, 0.4);
 }
 
 .portfolio-gall-cover:hover p{
@@ -113,6 +123,10 @@
     flex-wrap: wrap;
 }
 
+.subsection {
+    width: 100%;
+}
+
 #creative-bg-image {
     width: 100%;
     position:absolute;
@@ -125,7 +139,7 @@
 }
 
 #home-bg-image {
-    height: 40vh;
+    height: 50vh;
     width: 100%;
     object-fit: cover;
     z-index: -1;
@@ -133,8 +147,13 @@
     position: absolute;
 }
 
+#home-pad {
+    height: 0vh;
+    width: 100%;
+}
+
 #title-banner {
-    height: 30vh;
+    height: 40vh;
     margin-bottom: 0;
     display: flex;
     justify-content: center;

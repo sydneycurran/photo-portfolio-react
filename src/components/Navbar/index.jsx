@@ -31,7 +31,7 @@ const Navbar = () => {
 				</NavMenu>
 			</Nav>
             <div id="button-div">
-                <p onClick={showMenu} id="menu-button">^</p>
+                <p onClick={showMenu} id="menu-button">|||</p>
             </div>
 		</>
 	);

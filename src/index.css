@@ -1,5 +1,5 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Lexend", "Rubik", Helvetica, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -11,7 +11,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  --accent-color-1: #d26ec1;
+  --accent-color-1: #9b6985;
+  --fun-font: 'Playpen Sans';
 }
 
 a {
