@@ -21,7 +21,7 @@ import rockport4 from '../../portfolio-assets/Rockport4.jpg'
 import rockport5 from '../../portfolio-assets/Rockport5.jpg'
 import rockport6 from '../../portfolio-assets/Rockport6.jpg'
 
-import plane from '../../portfolio-assets/Plane.jpg'
+import plane from '../../portfolio-assets/Plane.JPG'
 import market1 from '../../portfolio-assets/Market1.JPG'
 import market2 from '../../portfolio-assets/Market2.JPG'
 import market3 from '../../portfolio-assets/Market3.JPG'
