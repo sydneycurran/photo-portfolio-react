@@ -245,6 +245,7 @@
         width: 90%;
     }
     .page-div {
+        display: flex;
         justify-content: center;
     }
 }
