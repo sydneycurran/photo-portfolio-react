@@ -4,10 +4,10 @@ import { NavLink } from "../components/Navbar/NavbarElems";
 import GalleryCoverNav from "../components/GalleryCoverNav";
 import { TwoImageRow, ThreeImageBlock, OneImageRow, ThreeImageRow, FourImageRow, FiveImageRow } from "../components/GalleryBlocks";
 import splatter from "../assets/splatter2.jpg"
-import wrigley2 from '../portfolio-assets/Wrigley2.jpg'
-import paper1 from '../portfolio-assets/Paper1.jpg'
+import wrigley2 from '../portfolio-assets/Wrigley2.JPG'
+import paper1 from '../portfolio-assets/Paper1.JPG'
 import prism2 from '../portfolio-assets/Prism2.jpg'
-import floraw5 from '../portfolio-assets/FloraW5.jpg'
+import floraw5 from '../portfolio-assets/FloraW5.JPG'
 import Footer from '../components/Footer';
 import polyscape1 from '../portfolio-assets/Botantic Garden Polyscape.jpg'
 import polyscape2 from '../portfolio-assets/Chicago Polyscape.jpg'

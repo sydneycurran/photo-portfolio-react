@@ -6,9 +6,9 @@ import GalleryCoverNav from "../components/GalleryCoverNav";
 import { FiveImageRow, FourImageRow, OneImageRow, ThreeImageBlock, ThreeImageRow, TwoImageRow } from "../components/GalleryBlocks";
 import Footer from '../components/Footer';
 
-import petscover from "../portfolio-assets/Cosmo2.jpg";
+import petscover from "../portfolio-assets/Cosmo2.JPG";
 import creativecover from "../portfolio-assets/BWFlower1.jpg";
-import eventscover from "../portfolio-assets/Ribbons2.jpg";
+import eventscover from "../portfolio-assets/Ribbons2.JPG";
 
 const Home = () => {
     return (
