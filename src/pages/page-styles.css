@@ -11,6 +11,8 @@
     flex-wrap: wrap;
     width: 95%;
     justify-self: center;
+    padding-right: 2.5%;
+    padding-left: 2.5%;
 }
 
 .page-title {
